@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+04-model/rbt3/
+03-tokenizer/roberta_tokenizer/
+03-tokenizer/chatglm_tokenizer/
+07-trainer/checkpoints/
